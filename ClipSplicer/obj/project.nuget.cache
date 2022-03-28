@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ZUHk3qzXD2fqerKUwMdcE+iTYw8WKIg6LqIt/7V/1rsgkaH2+9HF2PSiryD/W64Eu5zviH50+jb/4zjXcv6iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcwal\\Development\\ClipSplicer\\ClipSplicer\\ClipSplicer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcwal\\.nuget\\packages\\ffmpegcore\\4.7.0\\ffmpegcore.4.7.0.nupkg.sha512",
+    "C:\\Users\\jcwal\\.nuget\\packages\\instances\\1.6.1\\instances.1.6.1.nupkg.sha512",
+    "C:\\Users\\jcwal\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\jcwal\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\jcwal\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\jcwal\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
